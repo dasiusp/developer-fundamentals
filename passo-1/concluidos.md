@@ -2,3 +2,4 @@
 
 - Leonardo Colman Lopes
 - Wallace Ramon Nogueira Soares
+- Lucas Vilela Aleixo

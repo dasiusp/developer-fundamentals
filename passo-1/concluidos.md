@@ -2,3 +2,4 @@
 
 - Leonardo Colman Lopes
 - Wallace Ramon Nogueira Soares
+- Vitor Martins Cruz

@@ -7,3 +7,4 @@
 - Wallace Ramon Nogueira Soares
 - Kawe da Cruz Gomes
 - Vinicius Bighetti
+- Juan Kineipe

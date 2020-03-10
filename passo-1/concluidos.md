@@ -1,8 +1,9 @@
 # Pessoas que concluíram o passo 1:
 
+- Enrique Emanuel Rezende Tavares da Silva
 - Leonardo Colman Lopes
-- Wallace Ramon Nogueira Soares
-- Vitor Martins Cruz
 - Lucas Vilela Aleixo
+- Vitor Martins Cruz
+- Wallace Ramon Nogueira Soares
 - Kawe da Cruz Gomes
 - Vinicius Bighetti

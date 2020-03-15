@@ -9,3 +9,4 @@
 - Vinicius Bighetti
 - Juan Kineipe
 - Guilherme Jimenes
+- Daniella Melo

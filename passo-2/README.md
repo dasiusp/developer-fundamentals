@@ -9,7 +9,7 @@ Para fazer isso, vamos implementar uma pequena calculadora de médias universit�
 
 ## Sua Tarefa
 
-- Implementar uma calculadora de médias de acordo com [essa](passo-2/Calculadora.md) especificação
+- Implementar uma calculadora de médias de acordo com [essa](Calculadora.md) especificação
 - Criar um repositório vazio em seu Github
 - Fazer um pull request para o repositório do item acima com as mudanças necessárias para sua calculadora funcionar
 - Fazer um pull request para o mesmo repositório com uma licença de código aberto ou uma licença de código livre, justificando porque você escolheu aquela licença

@@ -9,4 +9,5 @@ Além disso, membros mais sêniores do DASI estarão à disposição caso qualqu
 ----
 
 
-- ### [Passo 1 - Conhecendo o Github](https://github.com/dasiusp/treinamento-calourxs/tree/master/passo-1)
+- ### [Passo 1 - Conhecendo o Github](passo-1)
+- ### [Passo 2 - Um Hello World Open Source](passo-2)

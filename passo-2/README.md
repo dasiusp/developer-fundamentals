@@ -25,5 +25,6 @@ Para fazer isso, vamos implementar uma pequena calculadora de m√©dias universit√
 - [How to write a good commit message](https://chris.beams.io/posts/git-commit/)
 - [Open Source Licenses](https://opensource.org/licenses/)
 - [Choose an Open Source License](https://choosealicense.com/)
+- [RANT: A realidade do software livre](https://www.youtube.com/watch?v=FVy1fZhNSDA)
 - [What exactly is a Pull Request?](https://opensource.stackexchange.com/questions/352/what-exactly-is-a-pull-request)
 - [About Pull Requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)

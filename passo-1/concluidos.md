@@ -10,3 +10,4 @@
 - Juan Kineipe
 - Guilherme Jimenes
 - Daniella Melo
+- Mauricio Assad

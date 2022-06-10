@@ -11,5 +11,6 @@ Escreva um programa em sua linguagem de programação preferida que seja capaz d
 Teremos um número configurável de quantidade de provas e um número configurável de quantidade de trabalhos.
 
 O cálculo da média se dá:
+
 - Se média das provas >= 5 e média de trabalhos >= 5, a média final será composta por 60% da média de provas e 40% da média de trabalhos
 - Se qualquer uma das médias for menor do que 5, a média final será composta pelo menor média entre as duas médias.
